@@ -62,7 +62,7 @@ if __name__ == '__main__':
                 roi = gray[y1:y2, x1:x2]
                 vis_roi = vis[y1:y2, x1:x2]
                 subrects = detect(roi.copy(), nested)
-                draw_rects(vis_roi, subrects, (255, 123, 123))
+                draw_rects(vis_roi, subrects, (255, 65, 123))
         dt = clock() - t
 
         draw_str(vis, (20, 20), 'time: %.1f ms' % (dt*1000))
