@@ -1,3 +1,3 @@
 # EC601-HW1
 
-first edit
+facedetect.py this is our execteble program intend to recognize human face from environment. We want to improve the ability of such system to suit the situation of low light, hair/hats/glasses.
