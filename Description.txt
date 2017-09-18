@@ -1,0 +1,2 @@
+facedetect.py this is our execteble program intend to recognize human face from environment. 
+This projects used CV2 package and laptop camera to capture real-time video frame and detect the face in those frames. used to different rectangles to enclosure the face and eyes.
